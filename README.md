@@ -1,12 +1,12 @@
 # SSB
 
-EXP NO: 3	SSB-SC-AM MODULATION using SCILAB
+# EXP NO: 3	SSB-SC-AM MODULATION using SCILAB
 
-AIM:
+# AIM:
 
 To write a program to perform SSBSC modulation and demodulation using SCI LAB and study its spectral characteristics
 
-EQUIPMENTS REQUIRED
+# EQUIPMENTS REQUIRED
 
 •	Computer with i3 Processor
 
@@ -15,7 +15,7 @@ EQUIPMENTS REQUIRED
 Note: Keep all the switch faults in off position
 
 
-Algorithm
+# Algorithm
 1.	Define Parameters:
 •	Fs: Sampling frequency.
 •	T: Duration of the signal.
@@ -35,7 +35,7 @@ Algorithm
 •	Plot the message signal, carrier signal, SSBSC modulated signal, and the recovered signal after demodulation.
 
 
-PROCEDURE
+# PROCEDURE
 
 •	Refer Algorithms and write code for the experiment.
 •	Open SCILAB in System
@@ -46,12 +46,13 @@ PROCEDURE
 •	If any Error, correct it in code and execute again
 •	Verify the generated waveform using Tabulation and Model Waveform
 
-Model Waveform
+# Model Waveform
 
 <img width="704" height="178" alt="image" src="https://github.com/user-attachments/assets/32ee29b3-0d95-4192-9762-972d50c05c90" />
+
 <img width="706" height="167" alt="image" src="https://github.com/user-attachments/assets/bff0d8fd-d679-444e-af37-0b34585853c1" />
 
-Program
+# Program
 ```
 Ac=12;
 fc=2500;
@@ -81,26 +82,18 @@ title('Usb');
 plot(t,Eusb);
 ```
 
-OUTPUT WAVEFORM
+# OUTPUT WAVEFORM
 <img width="1868" height="874" alt="Screenshot 2025-09-24 200403" src="https://github.com/user-attachments/assets/f0f7f389-1681-40bc-befc-08f08a0d30f2" />
 
 
-TABULATION
+# TABULATION
 
 ![WhatsApp Image 2025-11-03 at 11 19 50_2f9d3e23](https://github.com/user-attachments/assets/38847731-74cf-4308-8497-b129b641095b)
 
-calculation
+# calculation
 ![WhatsApp Image 2025-11-03 at 11 19 51_fe65c150](https://github.com/user-attachments/assets/aa4592b8-4b7b-42e5-a3b8-a1adcc0c5ef8)
 
-
-
-
-
-
-
-
-RESULT:
-
+# RESULT:
 Thus, the SSB-SC-AM Modulation and Demodulation is experimentally done and the output is verified.
 
 
