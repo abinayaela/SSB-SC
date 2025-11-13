@@ -39,7 +39,6 @@ Note: Keep all the switch faults in off position
 
 # Model Waveform
 <img width="704" height="178" alt="image" src="https://github.com/user-attachments/assets/32ee29b3-0d95-4192-9762-972d50c05c90" />
-
 <img width="706" height="167" alt="image" src="https://github.com/user-attachments/assets/bff0d8fd-d679-444e-af37-0b34585853c1" />
 
 # Program
