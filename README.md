@@ -1,19 +1,13 @@
 # SSB
-
 # EXP NO: 3	SSB-SC-AM MODULATION using SCILAB
 
 # AIM:
-
 To write a program to perform SSBSC modulation and demodulation using SCI LAB and study its spectral characteristics
 
 # EQUIPMENTS REQUIRED
-
 •	Computer with i3 Processor
-
 •	SCI LAB
-
 Note: Keep all the switch faults in off position
-
 
 # Algorithm
 1.	Define Parameters:
@@ -34,20 +28,16 @@ Note: Keep all the switch faults in off position
 5.	Visualization:
 •	Plot the message signal, carrier signal, SSBSC modulated signal, and the recovered signal after demodulation.
 
-
 # PROCEDURE
-
 •	Refer Algorithms and write code for the experiment.
 •	Open SCILAB in System
 •	Type your code in New Editor
 •	Save the file
- 
 •	Execute the code
 •	If any Error, correct it in code and execute again
 •	Verify the generated waveform using Tabulation and Model Waveform
 
 # Model Waveform
-
 <img width="704" height="178" alt="image" src="https://github.com/user-attachments/assets/32ee29b3-0d95-4192-9762-972d50c05c90" />
 
 <img width="706" height="167" alt="image" src="https://github.com/user-attachments/assets/bff0d8fd-d679-444e-af37-0b34585853c1" />
@@ -87,7 +77,6 @@ plot(t,Eusb);
 
 
 # TABULATION
-
 ![WhatsApp Image 2025-11-03 at 11 19 50_2f9d3e23](https://github.com/user-attachments/assets/38847731-74cf-4308-8497-b129b641095b)
 
 # calculation
