@@ -43,10 +43,10 @@ Note: Keep all the switch faults in off position
 
 # Program
 ```
-Ac=12;
-fc=2500;
-Am=9;
-fm=250;
+Ac=12.7;
+fc=2570;
+Am=9.7;
+fm=320;
 fs=25000;
 t=0:1/fs:2/fm;
 Wm=2*3.14*fm;
